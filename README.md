@@ -1,6 +1,9 @@
 # Web-Chess
 In Progress
 
+# Run on youe system
+Download code and just hit HTML file in browser. (No Server Required for testing)
+
 ![image](https://github.com/Hardknox1996/Web-Chess/assets/13415434/33382b0a-3276-467a-86da-b8def8c78cb8)
 
 # Done Actions
@@ -26,3 +29,5 @@ Checkmate                           - Done
 Predict if king is in danger
 
 King swap
+
+Make it online using auth.
